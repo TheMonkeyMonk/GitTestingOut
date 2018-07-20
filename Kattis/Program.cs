@@ -10,6 +10,10 @@ namespace Kattis
 
     class Program
     {
+        int checkDate(int thisCall)
+        {
+            return 0;
+        }
        static int countDigits(string num)
         {
             int i = 0;
@@ -38,19 +42,20 @@ namespace Kattis
                     low = i;
                     s = true;
                 }
+                // adding a few commenets here 
                 if (countDigits(i.ToString()) == x )
                 {
-                    high = i;
+                    highIs = i;
                 }
 
             }
 
             Console.WriteLine(low);
             Console.WriteLine(high);
-
+            
 
         }
-
+    
     }
  
    }
