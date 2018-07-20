@@ -1,0 +1,7 @@
+C:\Users\areee\source\repos\Kattis\Kattis\bin\Debug\Kattis.exe.config
+C:\Users\areee\source\repos\Kattis\Kattis\bin\Debug\Kattis.exe
+C:\Users\areee\source\repos\Kattis\Kattis\bin\Debug\Kattis.pdb
+C:\Users\areee\source\repos\Kattis\Kattis\obj\Debug\Kattis.csprojResolveAssemblyReference.cache
+C:\Users\areee\source\repos\Kattis\Kattis\obj\Debug\Kattis.csproj.CoreCompileInputs.cache
+C:\Users\areee\source\repos\Kattis\Kattis\obj\Debug\Kattis.exe
+C:\Users\areee\source\repos\Kattis\Kattis\obj\Debug\Kattis.pdb
